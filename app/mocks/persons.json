@@ -1,0 +1,80 @@
+[
+    {
+      "name": "Helen Tran",
+      "mediaUrl": "https://cdn.dribbble.com/uploads/47174/original/4f02d72fe701b15b2168a4954332427f.png?1685645150&format=webp&resize=320x399&vertical=center",
+      "surname": "Lead Product Designer",
+      "tags": ["Leadership", "Product", "UX"],
+      "mediaType": "image"
+    },
+    {
+      "name": "John Smith",
+      "mediaUrl": "https://cdn.dribbble.com/uploads/47180/original/1def7b9fb30832c4af4353b325d9c3af.mp4?1685645402",
+      "surname": "Brand + Illustartor",
+      "tags": ["Design", "UI"],
+      "mediaType": "video"
+    },
+    {
+      "name": "Emily Johnson",
+      "mediaUrl": "https://cdn.dribbble.com/uploads/47178/original/mercedes-bazan.png?1689174566&format=webp&resize=320x399&vertical=center 320w",
+      "surname": "Digital Designer",
+      "tags": ["Mobile", "UI", "UX"],
+      "mediaType": "image"
+    },
+    {
+      "name": "Michael Brown",
+      "mediaUrl": "https://cdn.dribbble.com/uploads/47179/original/35d07cfebd303e05e688078015da0cc2.mp4?1685645373",
+      "surname": "Brand Designer",
+      "tags": ["Animation", "Visual", "UI"],
+      "mediaType": "video"
+    },
+    {
+      "name": "Sarah Williams",
+      "mediaUrl": "https://cdn.dribbble.com/uploads/47171/original/daniele-buffa-3.png?1689174763&format=webp&resize=320x399&vertical=center 320w",
+      "surname": "Illustartor",
+      "tags": ["Product", "UX"],
+      "mediaType": "image"
+    },
+    {
+      "name": "David Garcia",
+      "mediaUrl": "https://cdn.dribbble.com/uploads/47172/original/d85ae8c7db2421e9a01ecac942978d4b.png?1685645079&format=webp&resize=320x399&vertical=center 320w",
+      "surname": "Principal Designer",
+      "tags": ["Leadership", "Product"],
+      "mediaType": "image"
+    },
+    {
+      "name": "Emma Martinez",
+      "mediaUrl": "https://cdn.dribbble.com/uploads/47170/original/cd3266dde4f00a5d6a509c7375ddaecd.png?1685644840&format=webp&resize=320x399&vertical=center 320w",
+      "surname": "Designer Director",
+      "tags": ["Graphic Design", "Illustration"],
+      "mediaType": "image"
+    },
+    {
+      "name": "James Rodriguez",
+      "mediaUrl": "https://cdn.dribbble.com/uploads/47180/original/1def7b9fb30832c4af4353b325d9c3af.mp4?1685645402",
+      "surname": "Cretaive Directorr",
+      "tags": ["Web", "UI", "Mobile"],
+      "mediaType": "video"
+    },
+    {
+      "name": "Olivia Wilson",
+      "mediaUrl": "https://cdn.dribbble.com/uploads/47181/original/1e3a73a174484bef522b620c401cd00a.mp4?1685645427",
+      "surname": "Design Educator",
+      "tags": ["Brand", "UI", "Web"],
+      "mediaType": "video"
+    },
+    {
+      "name": "William Lopez",
+      "mediaUrl": "https://cdn.dribbble.com/uploads/47173/original/Vladimir_Gruev.png?1689174896&format=webp&resize=320x399&vertical=center 320w",
+      "surname": "Lead Product Designer",
+      "tags": ["Brand", "Design"],
+      "mediaType": "image"
+    },
+    {
+      "name": "Sophia Lee",
+      "mediaUrl": "https://cdn.dribbble.com/uploads/47177/original/3986915be548424a5d36657f2b034ead.jpeg?1685645250&format=webp&resize=320x399&vertical=center 320w",
+      "surname": "Digital Designer",
+      "tags": ["Illustartion", "Mobile", "UI"],
+      "mediaType": "image"
+    }
+  ]
+  
