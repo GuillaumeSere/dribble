@@ -19,7 +19,7 @@ export default function Hero() {
                 )}>
                     The world’s destination for design
                 </h1>
-                <p className="text-xl leading-9 mx-auto">
+                <p className="text-xl text-center leading-9 mx-1">
                     Get inspired by the work of millions of top-rated designers & agencies around the world.
                 </p>
                 <div className='flex justify-center mt-8 -mb-10'>
